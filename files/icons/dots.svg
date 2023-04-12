@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Vrstva_1" data-name="Vrstva 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 99.23 46.37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #1d1d1b;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="23.19" cy="23.19" r="21.69"/>
+  <circle class="cls-2" cx="76.04" cy="23.19" r="21.69"/>
+</svg>
