@@ -67,7 +67,7 @@ body {
     justify-content: space-between;
 }
 
-/*buger*/
+/*burger*/
 
 .navbar__container-burger {
     cursor: pointer;
@@ -232,8 +232,8 @@ body {
     margin: 0;
 }
 .section-top__right figure div img {
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: auto;
 }
 .section-top__right div{
     width: 280px;
@@ -293,7 +293,7 @@ body {
 
 .quadcon::after {
     content: "";
-    width: 100%;
+    width: auto;
     display: block;
     border-bottom: 2px darkturquoise dashed;
 }
@@ -343,8 +343,8 @@ body {
     margin: 10px auto;
 }
 .dots img {
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: auto;
 }
 
 .section-soluitions .button-orange {
