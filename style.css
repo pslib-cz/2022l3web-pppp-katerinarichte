@@ -703,3 +703,63 @@ h1 {
     height: 21vh;
     width: 100vw;
 }
+
+@media (min-width:768px){
+    .preheader__container {
+        margin: 0 1em;
+    }
+    .section-top .container{
+        display: flex;
+        align-items: center;
+    }
+    .section-top__left{
+        padding: 0 6em;
+    }
+    .section-top__right{
+        padding-right: 6em;
+    }
+    .logo-gallery figure {
+        height: 2em ;
+    }
+    .quadcon{
+        display: flex;
+        flex-wrap: wrap;
+        
+    }
+    .quadcon__element{
+        width: 50%;
+    }
+    
+    .cards__gallery {
+        
+        flex-wrap: nowrap;
+    }
+    .cards__gallery__card{
+        margin: 1em;
+    } 
+    .ourstory .container {
+        flex-direction: row;
+        padding: 4em;
+        align-items: center;
+    }
+    .comments_gallery {
+        display: flex;
+        
+    }
+
+    .comments_gallery__element {
+        padding: 1em;
+    }
+    .comments .button-orange {
+        margin-bottom: 1em auto;
+    }
+    
+    .news__wrapper {
+        display: flex;
+    }
+    .news__wrapper__box {
+        padding: 1em;
+    }
+}
+    
+@media (min-width: 1020)
